@@ -1,0 +1,4 @@
+git e um sistema de controle de versao distribuido ou seja um sistema que permite rastrear alteracoes em arquivos ao longo do tempo, faccilitando a colaboracao em projetos de deselvolvimento de  software e recuperacao de versao anteriores 
+git status;mostra o estado dos arquivos no repositorio indicando quais foram alterados, quais foram adicionados e quais nao estao sendo rastreados 
+git commit e um registro de alteracoes feitas em um repositorio que capturas um ponto especifico no historico do projeto 
+git push serve para enviar as alteracoes locais de um repositorio para um repositorio remoto 
